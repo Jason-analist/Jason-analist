@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hola, soy Jason Avellaneda
+**Analista de Datos Jr | Piedecuesta, Santander 🇨🇴**
 
-<!--
-**Jason-analist/Jason-analist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transformo datos en decisiones con SQL, Python y visualización. 
+Enfocado en proyectos de impacto social y sostenibilidad.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+[Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+[SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+[Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados
+| Proyecto | Descripción | Stack |
+| --- | --- | --- |
+| [Análisis Ladrillos PET](https://github.com/Jason-analist/Jason-analisis) | 148 casas VIS posibles con PET reciclado de Santander | Python, SQL, Matplotlib |
+
+### 📫 Contacto
+- Email: jrac.jason.ac@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jason-rafael-avellaneda-coronado-a113a9352?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+**#OpenToWork como Analista de Datos Jr**
