@@ -1,21 +1,18 @@
-### 👋 Hola, soy Jason Avellaneda
-**Analista de Datos Jr | Piedecuesta, Santander 🇨🇴**
+# Hola, soy Jason 👋
+### Junior Web Developer en construcción | De Data a Código
 
-Transformo datos en decisiones con SQL, Python y visualización. 
-Enfocado en proyectos de impacto social y sostenibilidad.
+💻 **Actualmente**: Estudiando Full Stack con Holamundo.io - Nicolás Schürmann
+🚀 **Stack**: JavaScript | React | Node.js | HTML/CSS | Git
+🎯 **Meta**: Construir aplicaciones web que la gente ame usar
 
-### 🔧 Tech Stack
-[Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-[SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-[Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+### 🔥 Por qué Dev y no Data?
+Exploré Data Analytics y el debugging me enseñó que amo crear soluciones flexibles, no configurar herramientas rígidas. Mi terquedad para resolver problemas ahora la uso en código.
 
-### 🚀 Proyectos Destacados
-| Proyecto | Descripción | Stack |
-| --- | --- | --- |
-| [Análisis Ladrillos PET](https://github.com/Jason-analist/Jason-analisis) | 148 casas VIS posibles con PET reciclado de Santander | Python, SQL, Matplotlib |
+### 📌 Proyectos Activos
+1. **[Próximo proyecto React]** - En construcción
+2. **[API con Node]** - En construcción
 
 ### 📫 Contacto
-- Email: jrac.jason.ac@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jason-rafael-avellaneda-coronado-a113a9352?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+LinkedIn: [tu link] | Email: [tu mail]
 
-**#OpenToWork como Analista de Datos Jr**
+> "Prefiero 2h debuggeando código que creé, que 2h peleando con un botón que no controlo."
