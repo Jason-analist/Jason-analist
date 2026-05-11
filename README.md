@@ -13,6 +13,6 @@ Exploré Data Analytics y el debugging me enseñó que amo crear soluciones flex
 2. **[API con Node]** - En construcción
 
 ### 📫 Contacto
-LinkedIn: [tu link] | Email: [tu mail]
+LinkedIn: https://acortar.link/eBGSPw  | Email: jrac.jason.ac@gmail.com
 
 > "Prefiero 2h debuggeando código que creé, que 2h peleando con un botón que no controlo."
