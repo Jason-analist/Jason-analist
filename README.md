@@ -9,7 +9,7 @@ I explored Data Analytics, but debugging taught me I love creating flexible solu
 
 ### 📌 Active Projects
 1. **DIGITALARCHITEC-IA** - In development
-2. **[Node.js API]** - In development
+2. **jason-cuero-web** - In development
 
 ### 📫 Contact
 LinkedIn: https://acortar.link/eBGSPw | Email: jrac.jason.ac@gmail.com
