@@ -8,7 +8,7 @@
 I explored Data Analytics, but debugging taught me I love creating flexible solutions, not configuring rigid tools. I channel that persistence into clean, functional code.
 
 ### 📌 Active Projects
-1. **[React App]** - In development
+1. **DIGITALARCHITEC-IA** - In development
 2. **[Node.js API]** - In development
 
 ### 📫 Contact
