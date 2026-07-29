@@ -1,11 +1,9 @@
 # Hi, I'm Jason 👋
-### Junior Web Developer | Construction Tech
+### Junior Web Developer | Junior data analytics | Construction Tech
 
 💻 **Stack**: JavaScript | React | Node.js | HTML/CSS | Git
 🎯 **Goal**: Build web applications people love to use
 
-### 🔥 Why Web Dev?
-I explored Data Analytics, but debugging taught me I love creating flexible solutions, not configuring rigid tools. I channel that persistence into clean, functional code.
 
 ### 📌 Active Projects
 1. **DIGITALARCHITEC-IA** - In development
